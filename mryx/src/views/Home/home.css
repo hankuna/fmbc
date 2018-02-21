@@ -1,0 +1,29 @@
+.home{
+  width: 100%;
+  height: auto;
+}
+.header{
+  height: 40px;
+  width: 100%;
+  line-height: 40px;
+  text-align: center;
+  background-color: #fff;
+}
+.headerBox{
+  width: 100%;
+}
+.Boximg{
+  height:150px;
+  width: 100%;
+}
+.Boximg img{
+  width: 100%;
+  height: 50%;
+}
+.section{
+  display: flex;
+  /*align-items: center;*/
+  justify-content: center; 
+  height:60%;
+  background-color: #fff;
+}

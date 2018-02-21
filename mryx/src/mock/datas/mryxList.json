@@ -1,0 +1,4249 @@
+{
+    "code": 0,
+    "is_chrome": 1,
+    "banner_bg_img": "https://j-image.missfresh.cn/img_20171228235204639.jpg",
+    "header_tip": {
+        "link_type": "app_download",
+        "image": "",
+        "url": "http://a.app.qq.com/o/simple.jsp?pkgname=cn.missfresh.application&ckey=CK1348245410455"
+    },
+    "station_code": "MRYX|mryx_bj_hy",
+    "first_page_addr_text": "",
+    "type": 1,
+    "show_lines": 1,
+    "category_list": [
+        {
+            "category_image": "https://j-image.missfresh.cn/img_20171228232555098.png",
+            "presell": 0,
+            "default": 1,
+            "is_home": 1,
+            "internal_id": "jsd-hb-newsy",
+            "category_tag": "",
+            "ordering": 200,
+            "name": "热卖",
+            "icon": "https://j-image.missfresh.cn/img_20171228232700921.png",
+            "category_type": "首页频道",
+            "group_bottom_img": "",
+            "group": 0
+        },
+        {
+            "category_image": "",
+            "presell": 0,
+            "default": 0,
+            "is_home": 0,
+            "internal_id": "hbjsd-huoguo",
+            "category_tag": "no_tag",
+            "ordering": 101,
+            "name": "火锅",
+            "icon": "https://j-image.missfresh.cn/img_20171013205023945.png",
+            "category_type": "",
+            "group_bottom_img": "https://j-image.missfresh.cn/img_20171013210050621.jpg",
+            "group": 0
+        },
+        {
+            "category_image": "",
+            "presell": 0,
+            "default": 0,
+            "is_home": 0,
+            "internal_id": "jsd-hb-fruit",
+            "category_tag": "no_tag",
+            "ordering": 100,
+            "name": "水果",
+            "icon": "https://j-image.missfresh.cn/img_20170712184022323.png",
+            "category_type": "",
+            "group_bottom_img": "",
+            "group": 0
+        },
+        {
+            "category_image": "",
+            "presell": 0,
+            "default": 0,
+            "is_home": 0,
+            "internal_id": "jsd-hb-sc",
+            "category_tag": "no_tag",
+            "ordering": 95,
+            "name": "蔬菜",
+            "icon": "https://j-image.missfresh.cn/img_20170613154320218.png",
+            "category_type": "",
+            "group_bottom_img": "",
+            "group": 0
+        },
+        {
+            "category_image": "",
+            "presell": 0,
+            "default": 0,
+            "is_home": 0,
+            "internal_id": "jsd-hb-milk",
+            "category_tag": "no_tag",
+            "ordering": 90,
+            "name": "乳品",
+            "icon": "https://j-image.missfresh.cn/img_20170712184335921.png",
+            "category_type": "",
+            "group_bottom_img": "",
+            "group": 0
+        },
+        {
+            "category_image": "",
+            "presell": 0,
+            "default": 0,
+            "is_home": 0,
+            "internal_id": "jsd-hb-food",
+            "category_tag": "no_tag",
+            "ordering": 80,
+            "name": "肉蛋",
+            "icon": "https://j-image.missfresh.cn/img_20170712184216882.png",
+            "category_type": "",
+            "group_bottom_img": "",
+            "group": 0
+        },
+        {
+            "category_image": "",
+            "presell": 0,
+            "default": 0,
+            "is_home": 0,
+            "internal_id": "jsd-hb-snack",
+            "category_tag": "no_tag",
+            "ordering": 70,
+            "name": "零食",
+            "icon": "https://j-image.missfresh.cn/img_20170613155335895.png",
+            "category_type": "",
+            "group_bottom_img": "",
+            "group": 0
+        },
+        {
+            "category_image": "",
+            "presell": 0,
+            "default": 0,
+            "is_home": 0,
+            "internal_id": "jsd-hb-drink",
+            "category_tag": "no_tag",
+            "ordering": 60,
+            "name": "酒饮",
+            "icon": "https://j-image.missfresh.cn/img_20170613155448054.png",
+            "category_type": "",
+            "group_bottom_img": "",
+            "group": 0
+        },
+        {
+            "category_image": "",
+            "presell": 0,
+            "default": 0,
+            "is_home": 0,
+            "internal_id": "jsd-hb-seafood",
+            "category_tag": "no_tag",
+            "ordering": 50,
+            "name": "水产",
+            "icon": "https://j-image.missfresh.cn/img_20170613155505764.png",
+            "category_type": "",
+            "group_bottom_img": "",
+            "group": 0
+        },
+        {
+            "category_image": "",
+            "presell": 0,
+            "default": 0,
+            "is_home": 0,
+            "internal_id": "sss-jsd-hbfastfood",
+            "category_tag": "",
+            "ordering": 41,
+            "name": "熟食",
+            "icon": "https://j-image.missfresh.cn/img_20171031191941929.png",
+            "category_type": "",
+            "group_bottom_img": "",
+            "group": 0
+        },
+        {
+            "category_image": "",
+            "presell": 0,
+            "default": 0,
+            "is_home": 0,
+            "internal_id": "jsd-hbfastfood",
+            "category_tag": "",
+            "ordering": 40,
+            "name": "速食",
+            "icon": "https://j-image.missfresh.cn/img_20170613155537560.png",
+            "category_type": "",
+            "group_bottom_img": "",
+            "group": 0
+        },
+        {
+            "category_image": "",
+            "presell": 0,
+            "default": 0,
+            "is_home": 0,
+            "internal_id": "jsd-hb-liangyou",
+            "category_tag": "",
+            "ordering": 30,
+            "name": "粮油",
+            "icon": "https://j-image.missfresh.cn/img_20170613155808681.png",
+            "category_type": "",
+            "group_bottom_img": "",
+            "group": 0
+        },
+        {
+            "category_image": "",
+            "presell": 0,
+            "default": 0,
+            "is_home": 0,
+            "internal_id": "jsd-hb-qingshi",
+            "category_tag": "no_tag",
+            "ordering": 29,
+            "name": "轻食",
+            "icon": "https://j-image.missfresh.cn/img_20170712183416540.png",
+            "category_type": "",
+            "group_bottom_img": "",
+            "group": 0
+        },
+        {
+            "category_image": "",
+            "presell": 0,
+            "default": 0,
+            "is_home": 0,
+            "internal_id": "jsd-hb-com",
+            "category_tag": "no_tag",
+            "ordering": 1,
+            "name": "日百",
+            "icon": "https://j-image.missfresh.cn/img_20170613155656228.png",
+            "category_type": "",
+            "group_bottom_img": "",
+            "group": 0
+        }
+    ],
+    "wx_app_new_img": "",
+    "img_url": "https://j-image.missfresh.cn/img_20161108170831264.png",
+    "default_category": "jsd-hb-newsy",
+    "product_list": {
+        "brands": null,
+        "is_vip": 1,
+        "category_areas": [
+            {
+                "image": "https://image.missfresh.cn/category_group_images/EA5EDFFDBD9D8266A1A1E34A08760094.GIF",
+                "user_type": "OLDUSER",
+                "share_info": {
+                    "image_url": "https://image.missfresh.cn/category_group_images/6EC1E6392B49F1FA636F095054BC9EF4.JPG",
+                    "sina_url": "https://as-vip.missfresh.cn/frontend/#/activePage?promotionId=1881&address_code=110114&station_code=MRYX%7Cmryx_bj_hy&warehouse_code=MRYXTJ-HUOYING&is_vip=1&app_version=",
+                    "wx_url": "https://as-vip.missfresh.cn/frontend/#/activePage?promotionId=1881&address_code=110114&station_code=MRYX%7Cmryx_bj_hy&warehouse_code=MRYXTJ-HUOYING&is_vip=1&app_version=",
+                    "qqFriendShareType": 0,
+                    "title": "2017年度爆款大揭秘",
+                    "friend_url": "https://as-vip.missfresh.cn/frontend/#/activePage?promotionId=1881&address_code=110114&station_code=MRYX%7Cmryx_bj_hy&warehouse_code=MRYXTJ-HUOYING&is_vip=1&app_version=",
+                    "content": "看看有没有你的心头好~",
+                    "qqFriendUrl": "https://as-vip.missfresh.cn/frontend/#/activePage?promotionId=1881&address_code=110114&station_code=MRYX%7Cmryx_bj_hy&warehouse_code=MRYXTJ-HUOYING&is_vip=1&app_version="
+                },
+                "ordering": 10,
+                "name": "年度爆款大揭秘",
+                "is_can_open": 0,
+                "params": {
+                    "url": "https://as-vip.missfresh.cn/frontend/#/activePage?promotionId=1881&address_code=110114&station_code=MRYX%7Cmryx_bj_hy&warehouse_code=MRYXTJ-HUOYING&is_vip=1&app_version="
+                },
+                "type": "WEBPROMOTION",
+                "version": "6.2.0"
+            },
+            {
+                "image": "https://image.missfresh.cn/category_group_images/09FEFDD1E66B8A5685BB4B0C11FC47F8.GIF",
+                "user_type": "OLDUSER",
+                "share_info": {
+                    "image_url": "https://image.missfresh.cn/category_group_images/16FAAFD74C5A96A067B578F422AE883B.JPG",
+                    "sina_url": "https://as-vip.missfresh.cn/frontend/#/activePage?promotionId=1899&address_code=110114&station_code=MRYX%7Cmryx_bj_hy&warehouse_code=MRYXTJ-HUOYING&is_vip=1&app_version=",
+                    "wx_url": "https://as-vip.missfresh.cn/frontend/#/activePage?promotionId=1899&address_code=110114&station_code=MRYX%7Cmryx_bj_hy&warehouse_code=MRYXTJ-HUOYING&is_vip=1&app_version=",
+                    "qqFriendShareType": 0,
+                    "title": "熊出没，请注意",
+                    "friend_url": "https://as-vip.missfresh.cn/frontend/#/activePage?promotionId=1899&address_code=110114&station_code=MRYX%7Cmryx_bj_hy&warehouse_code=MRYXTJ-HUOYING&is_vip=1&app_version=",
+                    "content": "听说抓熊还能领红包？！",
+                    "qqFriendUrl": "https://as-vip.missfresh.cn/frontend/#/activePage?promotionId=1899&address_code=110114&station_code=MRYX%7Cmryx_bj_hy&warehouse_code=MRYXTJ-HUOYING&is_vip=1&app_version="
+                },
+                "ordering": 8,
+                "name": "熊出没请注意",
+                "is_can_open": 0,
+                "params": {
+                    "url": "https://as-vip.missfresh.cn/frontend/#/activePage?promotionId=1899&address_code=110114&station_code=MRYX%7Cmryx_bj_hy&warehouse_code=MRYXTJ-HUOYING&is_vip=1&app_version="
+                },
+                "type": "WEBPROMOTION",
+                "version": "6.2.0"
+            },
+            {
+                "image": "https://image.missfresh.cn/category_group_images/D464C9DDF07D39D11D95C617FC7C273D.GIF",
+                "user_type": "OLDUSER",
+                "share_info": {
+                    "image_url": "https://image.missfresh.cn/category_group_images/3918476C91934D8C65F496E838AA3167.JPG",
+                    "sina_url": "https://as-vip.missfresh.cn/frontend/#/activePage?promotionId=1879_1880&address_code=110114&station_code=MRYX%7Cmryx_bj_hy&warehouse_code=MRYXTJ-HUOYING&is_vip=1&app_version=",
+                    "wx_url": "https://as-vip.missfresh.cn/frontend/#/activePage?promotionId=1879_1880&address_code=110114&station_code=MRYX%7Cmryx_bj_hy&warehouse_code=MRYXTJ-HUOYING&is_vip=1&app_version=",
+                    "qqFriendShareType": 0,
+                    "title": "走亲访友绝对不能空手",
+                    "friend_url": "https://as-vip.missfresh.cn/frontend/#/activePage?promotionId=1879_1880&address_code=110114&station_code=MRYX%7Cmryx_bj_hy&warehouse_code=MRYXTJ-HUOYING&is_vip=1&app_version=",
+                    "content": "新年礼物第二件3折起",
+                    "qqFriendUrl": "https://as-vip.missfresh.cn/frontend/#/activePage?promotionId=1879_1880&address_code=110114&station_code=MRYX%7Cmryx_bj_hy&warehouse_code=MRYXTJ-HUOYING&is_vip=1&app_version="
+                },
+                "ordering": 6,
+                "name": "新年礼物专场",
+                "is_can_open": 0,
+                "params": {
+                    "url": "https://as-vip.missfresh.cn/frontend/#/activePage?promotionId=1879_1880&address_code=110114&station_code=MRYX%7Cmryx_bj_hy&warehouse_code=MRYXTJ-HUOYING&is_vip=1&app_version="
+                },
+                "type": "WEBPROMOTION",
+                "version": "6.2.0"
+            }
+        ],
+        "banner": [
+            {
+                "path": "https://j-image.missfresh.cn/img_20171229145953879.jpg",
+                "share_invite_content": {
+                    "wx_share_type": 1,
+                    "image_url": "https://j-image.missfresh.cn/img_20171228230210389.jpg",
+                    "sina_url": "https://as-vip.missfresh.cn/frontend/#/activePage?promotionId=1887_1888_1889_1890_1891_1892&address_code=110114&station_code=MRYX%7Cmryx_bj_hy&warehouse_code=MRYXTJ-HUOYING&category_code=jsd-hb-newsy&is_vip=1&parent_banner_type=1&parent_banner_id=1214&app_version=&banner_name=page_2017%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E5%A4%A7%E4%BF%83",
+                    "qr_info": {
+                        "qr_size": 70,
+                        "bg_i_url": "https://j-image.missfresh.cn/img_20171228225446218.jpg",
+                        "qr_y": 419,
+                        "qr_x": 80
+                    },
+                    "wx_url": "https://as-vip.missfresh.cn/frontend/#/activePage?promotionId=1887_1888_1889_1890_1891_1892&address_code=110114&station_code=MRYX%7Cmryx_bj_hy&warehouse_code=MRYXTJ-HUOYING&category_code=jsd-hb-newsy&is_vip=1&parent_banner_type=1&parent_banner_id=1214&app_version=&banner_name=page_2017%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E5%A4%A7%E4%BF%83",
+                    "friend_share_type": 1,
+                    "qqFriendShareType": 1,
+                    "title": "2017年最后一次大促",
+                    "content": "全场第二件3折起",
+                    "friend_url": "https://as-vip.missfresh.cn/frontend/#/activePage?promotionId=1887_1888_1889_1890_1891_1892&address_code=110114&station_code=MRYX%7Cmryx_bj_hy&warehouse_code=MRYXTJ-HUOYING&category_code=jsd-hb-newsy&is_vip=1&parent_banner_type=1&parent_banner_id=1214&app_version=&banner_name=page_2017%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E5%A4%A7%E4%BF%83",
+                    "qqFriendUrl": "https://as-vip.missfresh.cn/frontend/#/activePage?promotionId=1887_1888_1889_1890_1891_1892&address_code=110114&station_code=MRYX%7Cmryx_bj_hy&warehouse_code=MRYXTJ-HUOYING&category_code=jsd-hb-newsy&is_vip=1&parent_banner_type=1&parent_banner_id=1214&app_version=&banner_name=page_2017%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E5%A4%A7%E4%BF%83"
+                },
+                "storage_money_status": "0",
+                "name": "2017最后一次大促",
+                "link": "https://as-vip.missfresh.cn/frontend/#/activePage?promotionId=1887_1888_1889_1890_1891_1892&address_code=110114&station_code=MRYX%7Cmryx_bj_hy&warehouse_code=MRYXTJ-HUOYING&category_code=jsd-hb-newsy&is_vip=1&parent_banner_type=1&parent_banner_id=1214&app_version=&banner_name=page_2017%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E5%A4%A7%E4%BF%83",
+                "width": 750,
+                "promotion_id": "1887_1888_1889_1890_1891_1892",
+                "type": "WEBPROMOTION",
+                "height": 719
+            }
+        ],
+        "products": [
+            {
+                "code": "daojishi",
+                "group_img": null,
+                "backgroud_color": 0,
+                "enabled_banner": 1,
+                "banner": [
+                    {
+                        "path": "https://image.missfresh.cn/category_group_images/74941EB084C6C742E2201BF37ADE1549.PNG",
+                        "name": "",
+                        "width": 75,
+                        "link": null,
+                        "type": "APEXPRODUCTLIST",
+                        "height": 19
+                    }
+                ],
+                "type": "group",
+                "tags": null,
+                "gray_switch": 0,
+                "font_color": 0,
+                "second_title": null,
+                "name": "跨年大促",
+                "seckill_bgimg_url": null,
+                "act_end_time": 0,
+                "right_image": null,
+                "left_image": null
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171228141641728.png",
+                "type": "product",
+                "product_tags": [
+                    {
+                        "color": 13027014,
+                        "name": "果径26-28mm",
+                        "type": "property"
+                    },
+                    {
+                        "name": "红包不可用",
+                        "icon": "https://image.missfresh.cn/category_tag_images/64C7BDFCE3063869F16B409A2851887D.PNG",
+                        "color": 13027014,
+                        "type": "property"
+                    }
+                ],
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-hbzljclz-1j",
+                "stock": 76,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/0c1de2f2a4b544a89bd3130ef187e0bf.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 2,
+                        "color": 9868950,
+                        "price": 4990,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 3990,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "品尝智利的味道",
+                "name": "【现货】智利J级车厘子500g*1盒",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171228141641728.png",
+                "type": "product",
+                "product_tags": [
+                    {
+                        "color": 13027014,
+                        "name": "果径24-26mm",
+                        "type": "property"
+                    },
+                    {
+                        "name": "红包不可用",
+                        "icon": "https://image.missfresh.cn/category_tag_images/64C7BDFCE3063869F16B409A2851887D.PNG",
+                        "color": 13027014,
+                        "type": "property"
+                    }
+                ],
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-YShbzlclz-1h",
+                "stock": 68,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/705880b301704e159b9e1c88bc37a729.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 2,
+                        "color": 9868950,
+                        "price": 4790,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 3790,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "可用商品券兑换",
+                "name": "【现货】智利XL级车厘子500g",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": [
+                    {
+                        "name": "进口检验合格",
+                        "icon": "https://image.missfresh.cn/category_tag_images/4F714FFE698178AEB812AF38AC3416EA.PNG",
+                        "color": 13027014,
+                        "type": "property"
+                    }
+                ],
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-HBbrhlg-1g",
+                "stock": 111,
+                "pao": 1,
+                "image": "https://image.missfresh.cn/39e02f923eea498fad59890c3a196601.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 1090,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 1090,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "我就是清爽",
+                "name": "越南白肉火龙果450g-600g*1个",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": [
+                    {
+                        "name": "100%品控检测",
+                        "icon": "https://image.missfresh.cn/category_tag_images/41735BDF5DEB4C2CBEBB4C13EF28E466.PNG",
+                        "color": 13027014,
+                        "type": "property"
+                    }
+                ],
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-HBgnqc-4g",
+                "stock": 177,
+                "pao": 1,
+                "image": "https://image.missfresh.cn/83eea69372194233af82bb8b49131832.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 1690,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 1690,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "原产地 不催熟 不打蜡",
+                "name": "赣南脐橙190g-280g*4个",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-xdysywgwfjr-138g",
+                "stock": 35,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/dbdd8fa2bceb4e498c503d323b5363fe.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 990,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 990,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "谷物+发酵乳 饱腹感十足",
+                "name": "谷物组合风味发酵乳138g",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222851539.png",
+                "type": "product",
+                "product_tags": [
+                    {
+                        "color": 13027014,
+                        "name": "超值特惠",
+                        "type": "property"
+                    }
+                ],
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-aza2qzxnn-2p",
+                "stock": 4,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/product_images/F0E79022B2B839B814C4159D1275D409.JPG",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 2,
+                        "color": 9868950,
+                        "price": 10800,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 8640,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "澳洲优质鲜乳 乳糖不耐也能喝",
+                "name": "【预售】澳洲A2全脂鲜牛奶1L*2",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": [
+                    {
+                        "name": "产地直采 清真食品",
+                        "icon": "https://image.missfresh.cn/category_tag_images/89CED00349978C556022707C35E5A115.PNG",
+                        "color": 13027014,
+                        "type": "property"
+                    }
+                ],
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-ysznrk-500g",
+                "stock": 16,
+                "pao": 1,
+                "image": "https://image.missfresh.cn/product_images/DCC60DC62934F245C85C9FE15D7323F8.JPG",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 3990,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 3990,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "吃牛肉我只认月盛斋",
+                "name": "月盛斋牛肉块500g",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-mshtwymsqm500g",
+                "stock": 10,
+                "pao": 1,
+                "image": "https://image.missfresh.cn/cef3049d8bdf42a192c6ebddc2d92c65.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 1780,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 1780,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "加了黑糖燕麦 香软再升一级",
+                "name": "名沙黑糖味燕麦沙琪玛500g",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-hbscscym-500g",
+                "stock": 2,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/0970e982e99643fcadb495432c8680f2.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 1290,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 1290,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "香甜的花玉米",
+                "name": "云南双色鲜水果玉米500g（2根）",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171228111414665.png",
+                "type": "product",
+                "product_tags": [
+                    {
+                        "name": "超值特惠",
+                        "icon": null,
+                        "color": 13027014,
+                        "type": "property"
+                    }
+                ],
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-gblzrbz-420g",
+                "stock": 22,
+                "pao": 1,
+                "image": "https://image.missfresh.cn/50623e890f12487a993ff38ea20fb87e.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 2,
+                        "color": 9868950,
+                        "price": 2490,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 1240,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "人称“薄皮大馅18个褶花",
+                "name": "狗不理手工经典猪肉包420g",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-hdt-300g",
+                "stock": 2,
+                "pao": 1,
+                "image": "https://image.missfresh.cn/04f0dc98f48f4303adecfed580d60827.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 990,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 990,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "为你贴心切片 炖煮更入味",
+                "name": "海带条300g",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 1,
+                "promote_tag_new": "",
+                "sku": "p-zjcfjdm-500g",
+                "stock": 16,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/99f1ff3aaf7a41c39608cd5a6b579117.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 3,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 990,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 990,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "煮熟后喷香 媲美日本越光米",
+                "name": "在家吃饭粳稻米500g",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222814888.png",
+                "type": "product",
+                "product_tags": [
+                    {
+                        "name": "冬季滋补",
+                        "icon": null,
+                        "color": 13027014,
+                        "type": "property"
+                    }
+                ],
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-ljrtyxz-1kg",
+                "stock": 8,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/2e57723a2dff4bd780e4e5be7f2b1b27.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 8990,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 8990,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "15年只做一锅老汤羊蝎子，独家配方",
+                "name": "亮健容天羊蝎子(熟制)1kg",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-hwzqyzmgxx-1mz",
+                "stock": 11,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/7a662632013d48a89cbe708030d663c6.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 950,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 950,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "睡前来一片 玫瑰香气助眠",
+                "name": "花王蒸汽眼罩（玫瑰香型）1枚装",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "code": "hb-yxhy",
+                "group_img": null,
+                "backgroud_color": 0,
+                "enabled_banner": 1,
+                "banner": [
+                    {
+                        "path": "https://image.missfresh.cn/category_group_images/2FCE8C51182833EE6E45D255FCB07F19.JPEG",
+                        "name": "",
+                        "width": 750,
+                        "link": null,
+                        "type": "URL",
+                        "height": 220
+                    }
+                ],
+                "type": "group",
+                "tags": null,
+                "gray_switch": 0,
+                "font_color": 16719167,
+                "second_title": null,
+                "name": "优选会员",
+                "seckill_bgimg_url": null,
+                "act_end_time": 0,
+                "right_image": null,
+                "left_image": null
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": [
+                    {
+                        "name": "100%品控检测",
+                        "icon": "https://image.missfresh.cn/category_tag_images/41735BDF5DEB4C2CBEBB4C13EF28E466.PNG",
+                        "color": 13027014,
+                        "type": "property"
+                    }
+                ],
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-HBscaynm-2g",
+                "stock": 57,
+                "pao": 1,
+                "image": "https://image.missfresh.cn/498abf82aed8451a83ea831c00ba55e7.jpg",
+                "vip_exclusive": 2,
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "showTag": 0,
+                        "price": 690,
+                        "name": "商城价",
+                        "is_ex_price": 0
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16301056,
+                        "showTag": 1,
+                        "price": 590,
+                        "name": "优享会员价",
+                        "is_ex_price": 1
+                    }
+                },
+                "subtitle": "榨果汁做烹饪 样样精通",
+                "name": "四川安岳柠檬90g-120g*2个",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222814888.png",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-xg-qtywsn-1p",
+                "stock": 23,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/a201a45f49114853b25ed570dedbe0b7.jpg",
+                "vip_exclusive": 2,
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "showTag": 0,
+                        "price": 680,
+                        "name": "商城价",
+                        "is_ex_price": 0
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16301056,
+                        "showTag": 1,
+                        "price": 660,
+                        "name": "优享会员价",
+                        "is_ex_price": 1
+                    }
+                },
+                "subtitle": "保质期仅7天 快喝掉我",
+                "name": "享安心七天原味酸奶240g",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171228141615234.png",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-zjcfxlnp-150g",
+                "stock": 28,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/product_images/0678320E2871C649A24E3B4BF87E7D6F.JPG",
+                "vip_exclusive": 2,
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "showTag": 0,
+                        "price": 2190,
+                        "name": "商城价",
+                        "is_ex_price": 0
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16301056,
+                        "showTag": 1,
+                        "price": 1490,
+                        "name": "优享会员价",
+                        "is_ex_price": 1
+                    }
+                },
+                "subtitle": "经典黑胡椒味，媲美高档西餐厅的鲜嫩西冷",
+                "name": "在家吃饭西冷牛排150g",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171228141615234.png",
+                "type": "product",
+                "product_tags": [
+                    {
+                        "name": " 产地直采",
+                        "icon": "https://image.missfresh.cn/category_tag_images/62DE96B73273E49C0BE0A2935452566B.PNG",
+                        "color": 13027014,
+                        "type": "property"
+                    }
+                ],
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-cmxhs-500g",
+                "stock": 1,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/1feadecb8bd54c74afbae251f81b0ee1.jpg",
+                "vip_exclusive": 2,
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "showTag": 0,
+                        "price": 2490,
+                        "name": "商城价",
+                        "is_ex_price": 0
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16301056,
+                        "showTag": 1,
+                        "price": 1990,
+                        "name": "优享会员价",
+                        "is_ex_price": 1
+                    }
+                },
+                "subtitle": "别咬我的绿屁股  小心会爆汁",
+                "name": "草莓西红柿500g",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222851539.png",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-sgjghhmp25g*5",
+                "stock": 8,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/da19d0bb88c94cf1997129800a2b63f9.jpg",
+                "vip_exclusive": 2,
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "showTag": 0,
+                        "price": 1190,
+                        "name": "商城价",
+                        "is_ex_price": 0
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16301056,
+                        "showTag": 1,
+                        "price": 990,
+                        "name": "优享会员价",
+                        "is_ex_price": 1
+                    }
+                },
+                "subtitle": "内含8种果粒 每口都是惊喜",
+                "name": "水果坚果混合燕麦片25g*5",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "code": "HB-F-dmm",
+                "group_img": null,
+                "backgroud_color": 0,
+                "enabled_banner": 1,
+                "banner": [
+                    {
+                        "path": "https://image.missfresh.cn/category_group_images/3F15407B8C2C1DC7167D39C7C2349D3D.JPG",
+                        "name": "华北水果",
+                        "width": 750,
+                        "link": null,
+                        "type": "APEXPRODUCTDETAIL",
+                        "height": 220
+                    }
+                ],
+                "type": "group",
+                "tags": null,
+                "gray_switch": 0,
+                "font_color": 16719167,
+                "second_title": null,
+                "name": null,
+                "seckill_bgimg_url": null,
+                "act_end_time": 0,
+                "right_image": null,
+                "left_image": null
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": [
+                    {
+                        "name": "进口检验合格",
+                        "icon": "https://image.missfresh.cn/category_tag_images/4F714FFE698178AEB812AF38AC3416EA.PNG",
+                        "color": 13027014,
+                        "type": "property"
+                    }
+                ],
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-hbynhrhlgxg-1g",
+                "stock": 228,
+                "pao": 1,
+                "image": "https://image.missfresh.cn/716f805a085147aa86565f0f83a3cf7c.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 1090,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 1090,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "一手能掌握的红肉心",
+                "name": "越南红肉mini火龙果320g*1个",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": [
+                    {
+                        "name": "100%品控检测",
+                        "icon": "https://image.missfresh.cn/category_tag_images/41735BDF5DEB4C2CBEBB4C13EF28E466.PNG",
+                        "color": 13027014,
+                        "type": "property"
+                    }
+                ],
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-hbynbtc-2g",
+                "stock": 211,
+                "pao": 1,
+                "image": "https://image.missfresh.cn/57090cddb9554a2bb782a8540edb33bb.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 890,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 890,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "小时候吃的橙味儿 恰似冰糖",
+                "name": "云南冰糖橙150g-200g*2个",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": [
+                    {
+                        "name": "100%品控检测",
+                        "icon": "https://image.missfresh.cn/category_tag_images/41735BDF5DEB4C2CBEBB4C13EF28E466.PNG",
+                        "color": 13027014,
+                        "type": "property"
+                    }
+                ],
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "P-HBcxmht-4g",
+                "stock": 55,
+                "pao": 1,
+                "image": "https://image.missfresh.cn/4c1015ea272d44a5bc28c464b7f1c784.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 1190,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 1190,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "脸皮很薄 剥起来不费力",
+                "name": "翠香猕猴桃70g-95g*4个",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": [
+                    {
+                        "name": "100%品控检测",
+                        "icon": "https://image.missfresh.cn/category_tag_images/41735BDF5DEB4C2CBEBB4C13EF28E466.PNG",
+                        "color": 13027014,
+                        "type": "property"
+                    }
+                ],
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-HBhdg-4g",
+                "stock": 13,
+                "pao": 1,
+                "image": "https://image.missfresh.cn/bf7339ed615c4c279c811206cfb5831c.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 1390,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 1390,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "“皇帝柑”宣你觐见 速速来吃",
+                "name": "皇帝柑80g-100g*4个",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": [
+                    {
+                        "name": "100%品控检测",
+                        "icon": "https://image.missfresh.cn/category_tag_images/41735BDF5DEB4C2CBEBB4C13EF28E466.PNG",
+                        "color": 13027014,
+                        "type": "property"
+                    }
+                ],
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-hbgxcpjj-1h",
+                "stock": 7,
+                "pao": 1,
+                "image": "https://image.missfresh.cn/80439a48f4574f9fb1ea74d009f7cc0d.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 1890,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 1890,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "请连皮带肉 大口吃掉我    ",
+                "name": "广西脆皮金桔500g*1盒",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": [
+                    {
+                        "name": "进口检验合格",
+                        "icon": "https://image.missfresh.cn/category_tag_images/4F714FFE698178AEB812AF38AC3416EA.PNG",
+                        "color": 13027014,
+                        "type": "property"
+                    }
+                ],
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-hbyslxy-2g",
+                "stock": 9,
+                "pao": 1,
+                "image": "https://image.missfresh.cn/ac79aea1c07e4d2697551ed07e45b2a5.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 2690,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 2690,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "VC能量满足你想象",
+                "name": "以色列西柚250g-350g*2个",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "code": "roudan-huabei",
+                "group_img": null,
+                "backgroud_color": 0,
+                "enabled_banner": 1,
+                "banner": [
+                    {
+                        "path": "https://image.missfresh.cn/category_group_images/BBBB4D46E0EDAEEEEB54DCA4D707B99A.JPG",
+                        "name": "肉蛋",
+                        "width": 750,
+                        "link": null,
+                        "type": "APEXPRODUCTDETAIL",
+                        "height": 220
+                    }
+                ],
+                "type": "group",
+                "tags": null,
+                "gray_switch": 0,
+                "font_color": 16719167,
+                "second_title": null,
+                "name": null,
+                "seckill_bgimg_url": null,
+                "act_end_time": 0,
+                "right_image": null,
+                "left_image": null
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171228141543997.png",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-zjcfwhrk-400g",
+                "stock": 43,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/f0a0e807069a4725b498a1efb40112f2.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 2,
+                        "color": 9868950,
+                        "price": 1990,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 1490,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "谷饲喂养长大 肉质当然不会差",
+                "name": "在家吃饭五花肉块400g",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": [
+                    {
+                        "name": "供港品质",
+                        "icon": "https://image.missfresh.cn/category_tag_images/09316177FDC579A9A5D2926F96955A74.PNG",
+                        "color": 13027014,
+                        "type": "property"
+                    }
+                ],
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-hzjzwhr-400",
+                "stock": 50,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/6beb393da6024e9a9d9646726dc487f6.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 2490,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 2490,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "我的肥瘦比例恰恰好",
+                "name": "华正精制五花肉400g",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-xmqyj-280g",
+                "stock": 10,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/371fc325294b49399bc8cf1ee4f19958.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 2990,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 2990,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "重新定义好鸡的标准",
+                "name": "清农休眠清远鸡280g",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-zjcfslnp-150g",
+                "stock": 49,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/product_images/317FF460BB32CE25AE9F106D8DBEA715.JPG",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 2090,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 2090,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "你离呼伦贝尔的距离就这么近",
+                "name": "在家吃饭沙朗牛排150g",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-zjcfztk-380g",
+                "stock": 2,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/80b802719af94e629ffaa7696fb349a6.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 2490,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 2490,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "红烧煲汤百搭",
+                "name": "在家吃饭猪蹄块400g",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-keqhjnrl-150g",
+                "stock": 19,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/6f24093bed704f2fbfd08064aed27fcf.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 1690,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 1690,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "这个澳洲牛后腿 自带黑椒味",
+                "name": "科尔沁黑椒牛肉粒150g",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "code": "rupin",
+                "group_img": null,
+                "backgroud_color": 0,
+                "enabled_banner": 1,
+                "banner": [
+                    {
+                        "path": "https://image.missfresh.cn/category_group_images/CE4FDD38AC3DB292AA0588B20482C4E0.JPG",
+                        "name": "",
+                        "width": 750,
+                        "link": null,
+                        "type": "APEXPRODUCTDETAIL",
+                        "height": 220
+                    }
+                ],
+                "type": "group",
+                "tags": null,
+                "gray_switch": 0,
+                "font_color": 16719167,
+                "second_title": null,
+                "name": null,
+                "seckill_bgimg_url": null,
+                "act_end_time": 0,
+                "right_image": null,
+                "left_image": null
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222814888.png",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-ldjfwfjr-220g",
+                "stock": 23,
+                "pao": 1,
+                "image": "https://image.missfresh.cn/9f88c943176f43528bb5f21f888fbd08.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 790,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 790,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "一款打败经典的新经典酸奶",
+                "name": "老东京玫瑰+蔓越莓风味发酵乳220g",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-ryytnsnn-200g",
+                "stock": 26,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/720ab7e39714408f84f5daf65602b7ea.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 550,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 550,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "滴滴奶香四溢 口感香甜令人醉",
+                "name": "认养一头牛酸牛奶200g",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-syqnlmdmylr-250g",
+                "stock": 9,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/product_images/C8E70CC0702F4CDC2144D942BBE6D418.JPG",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 790,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 790,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "加了大麦 热量低又有饱足感",
+                "name": "轻能蓝莓大麦优酪乳250g",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222814888.png",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-gyrbb-12nyg-3b",
+                "stock": 7,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/921bea8318324ce4a60012ab3667dc28.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 1990,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 1990,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "双麦+水果 一杯营养全搞定",
+                "name": "冠益乳藜麦+燕麦+牛油果味麦酪乳100g*3",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222658920.png",
+                "type": "product",
+                "product_tags": [
+                    {
+                        "color": 13027014,
+                        "name": "超值特惠",
+                        "type": "property"
+                    },
+                    {
+                        "name": "红包不可用",
+                        "icon": "https://image.missfresh.cn/category_tag_images/64C7BDFCE3063869F16B409A2851887D.PNG",
+                        "color": 13027014,
+                        "type": "property"
+                    }
+                ],
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-hyd-ylamxxlsnn-4h",
+                "stock": 3,
+                "pao": 1,
+                "image": "https://image.missfresh.cn/b5b6c65929ac4e7288ac63f13dda30aa.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 2,
+                        "color": 9868950,
+                        "price": 2480,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 1990,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "这个希腊风味有点浓稠",
+                "name": "伊利安慕希酸奶205ml*4",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "code": "HBlingshi",
+                "group_img": null,
+                "backgroud_color": 0,
+                "enabled_banner": 1,
+                "banner": [
+                    {
+                        "path": "https://image.missfresh.cn/category_group_images/E44ED37D2B486826F093B36967FA3E70.JPG",
+                        "name": "零食",
+                        "width": 750,
+                        "link": null,
+                        "type": "APEXPRODUCTDETAIL",
+                        "height": 220
+                    }
+                ],
+                "type": "group",
+                "tags": null,
+                "gray_switch": 0,
+                "font_color": 16719167,
+                "second_title": null,
+                "name": null,
+                "seckill_bgimg_url": null,
+                "act_end_time": 0,
+                "right_image": null,
+                "left_image": null
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222851539.png",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-mrsgg10g*5",
+                "stock": 5,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/e0ee2ccf43c24678bb2e542320cf27cd.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 2,
+                        "color": 9868950,
+                        "price": 2450,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 1990,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "5种水果 拯救你的小馋嘴",
+                "name": "每日水果（果干）10g*5包",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-szbbszt*128g",
+                "stock": 38,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/product_images/256D3ED75EC5DB72C570B7E054719245.JPG",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 990,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 990,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "都是特立独行的山楂条",
+                "name": "山楂宝贝山楂条128g",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-xqjwnsb130g",
+                "stock": 7,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/6ec360a53a2742fd9063562b2c75b5b1.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 990,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 990,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "椒香浓郁的京味糕饼招牌",
+                "name": "雪晴京味牛舌饼130g",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-sjhxnmgb80g",
+                "stock": 9,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/7672bee9312c4ddcb2cbc00d0e55bbaf.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 990,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 990,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "一口嘎嘣脆的海鲜大餐",
+                "name": "水军海鲜糯米锅巴80g",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-ksfdsjnyw108g",
+                "stock": 19,
+                "pao": 1,
+                "image": "https://image.missfresh.cn/7ec493bd47da4527a39c21fc60faa57a.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 990,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 990,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "层层蛋卷一口酥脆  就它了",
+                "name": "康师傅蛋酥卷（香浓奶油口味）108g",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-jrxsjmhs100g",
+                "stock": 4,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/792e579413094d64af519464c1548989.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 580,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 580,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "加了清爽芥末 久吃也不腻",
+                "name": "佳荣小生芥末花生100g",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-sdlwdzbxwyg",
+                "stock": 12,
+                "pao": 1,
+                "image": "https://image.missfresh.cn/be3bfca4e7804fa8983490daecf29c3a.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 1390,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 1390,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "讨厌 人家轻轻一剥就被打开",
+                "name": "谁动了我的嘴巴夏威夷果100g",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "code": "shucai-hb",
+                "group_img": null,
+                "backgroud_color": 0,
+                "enabled_banner": 1,
+                "banner": [
+                    {
+                        "path": "https://image.missfresh.cn/category_group_images/576391FDC19FA305A1DBAB1851FB9599.JPG",
+                        "name": "",
+                        "width": 750,
+                        "link": null,
+                        "type": "APEXPRODUCTDETAIL",
+                        "height": 220
+                    }
+                ],
+                "type": "group",
+                "tags": null,
+                "gray_switch": 0,
+                "font_color": 16580740,
+                "second_title": null,
+                "name": null,
+                "seckill_bgimg_url": null,
+                "act_end_time": 0,
+                "right_image": null,
+                "left_image": null
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": [
+                    {
+                        "name": "供港品质",
+                        "icon": "https://image.missfresh.cn/category_tag_images/09316177FDC579A9A5D2926F96955A74.PNG",
+                        "color": 13027014,
+                        "type": "property"
+                    }
+                ],
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-ggyjxhs-500g",
+                "stock": 5,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/cb730f7770514937a73b601dcebb7054.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 1390,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 1390,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "晒足了宁夏阳光 甜度更高",
+                "name": "宁夏供港沙瓤西红柿450g（约2-4颗）",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-hg-450g",
+                "stock": 17,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/14cf3398ef604f788edbe9401503f6df.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 790,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 790,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "更适合生吃的黄瓜",
+                "name": "密云黄瓜400g",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": [
+                    {
+                        "name": "100%品控全检",
+                        "icon": "https://image.missfresh.cn/category_tag_images/E6A3128422FD77E88A135ADCB7EA3B0B.PNG",
+                        "color": 13027014,
+                        "type": "property"
+                    }
+                ],
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-hbmt-500g",
+                "stock": 32,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/0e94aa139ba84d43a8ecf2b349fa87cc.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 690,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 690,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "长在地下的雪梨",
+                "name": "马蹄450g",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": [
+                    {
+                        "name": " 产地直采",
+                        "icon": "https://image.missfresh.cn/category_tag_images/62DE96B73273E49C0BE0A2935452566B.PNG",
+                        "color": 13027014,
+                        "type": "property"
+                    }
+                ],
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-hbbc-300g",
+                "stock": 19,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/3eb074c8ab1444e09b2968be5f253ead.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 790,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 790,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "大力水手的能量罐",
+                "name": "密云菠菜250g",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-hbschnlo-400g",
+                "stock": 10,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/830a586b3d9d418a81a926403fac243a.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 990,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 990,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "我没吃过这么脆甜的莲藕",
+                "name": "巴河莲藕400g",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-ggwwc-500g",
+                "stock": 6,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/65b6a2b613f64a7daadbb1dce03e99f2.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 890,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 890,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "叶片肥厚 口感甜嫩嫩",
+                "name": "宁夏供港娃娃菜500g",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "code": "yinpin-hb",
+                "group_img": null,
+                "backgroud_color": 0,
+                "enabled_banner": 1,
+                "banner": [
+                    {
+                        "path": "https://image.missfresh.cn/category_group_images/C53C324532845F27D3B61B1476290AC5.JPG",
+                        "name": "饮品",
+                        "width": 750,
+                        "link": null,
+                        "type": "APEXPRODUCTDETAIL",
+                        "height": 220
+                    }
+                ],
+                "type": "group",
+                "tags": null,
+                "gray_switch": 0,
+                "font_color": 16719167,
+                "second_title": null,
+                "name": null,
+                "seckill_bgimg_url": null,
+                "act_end_time": 0,
+                "right_image": null,
+                "left_image": null
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": [
+                    {
+                        "name": "限量1000份",
+                        "icon": null,
+                        "color": 13027014,
+                        "type": "property"
+                    }
+                ],
+                "supplier": null,
+                "vip_product": 1,
+                "promote_tag_new": "",
+                "sku": "p-sgnvtxqpj-750ml",
+                "stock": 3,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/product_images/b53acb65baa57245ca7b75df2fac7000.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 2,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 4990,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 4990,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "不管你承不承认  我是女神款",
+                "name": "意大利诗歌女神起泡酒750ml",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171228141443658.png",
+                "type": "product",
+                "product_tags": [
+                    {
+                        "name": "限量1000份",
+                        "icon": null,
+                        "color": 13027014,
+                        "type": "property"
+                    }
+                ],
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-bslsmzwkl-450ml",
+                "stock": 31,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/be02c8e20f95483f92091697c46e25fe.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 2,
+                        "color": 9868950,
+                        "price": 1990,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 990,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "一杯拥有巴厘岛蓝的可乐",
+                "name": "百事蓝色梅子味可乐450ml",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": [
+                    {
+                        "name": "红包不可用",
+                        "icon": "https://image.missfresh.cn/category_tag_images/64C7BDFCE3063869F16B409A2851887D.PNG",
+                        "color": 13027014,
+                        "type": "property"
+                    }
+                ],
+                "supplier": null,
+                "vip_product": 1,
+                "promote_tag_new": "",
+                "sku": "p-lkfyzz-290ml",
+                "stock": 4,
+                "pao": 1,
+                "image": "https://image.missfresh.cn/8bdba9a6beaf43ec81ee3deac56c8c88.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 2,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 990,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 990,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "泰国原装 玻璃瓶装更保鲜",
+                "name": "乐可芬椰子汁饮料(含椰果)290ml",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-kmdfhpj-550ml",
+                "stock": 8,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/4bd7149c260445968702fb2556d88500.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 650,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 650,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "来干了这杯焦香浓郁的黑啤",
+                "name": "科门道夫黑啤酒500ml",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222814888.png",
+                "type": "product",
+                "product_tags": [
+                    {
+                        "name": "红包不可用",
+                        "icon": "https://image.missfresh.cn/category_tag_images/64C7BDFCE3063869F16B409A2851887D.PNG",
+                        "color": 13027014,
+                        "type": "property"
+                    }
+                ],
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-blkqsyw-1b",
+                "stock": 18,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/5d2f0fd5c4074cabb7aa1f97e7d867d0.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 890,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 890,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "会冒泡的有气矿泉水",
+                "name": "巴黎矿泉水(原味)330ml",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "code": "tj-qingshi轻食主义",
+                "group_img": null,
+                "backgroud_color": 0,
+                "enabled_banner": 1,
+                "banner": [
+                    {
+                        "path": "https://image.missfresh.cn/category_group_images/1D3DAEB427385562737BBEE38C39B2B6.JPG",
+                        "name": "",
+                        "width": 750,
+                        "link": null,
+                        "type": "APEXPRODUCTDETAIL",
+                        "height": 220
+                    }
+                ],
+                "type": "group",
+                "tags": null,
+                "gray_switch": 0,
+                "font_color": 16719167,
+                "second_title": null,
+                "name": null,
+                "seckill_bgimg_url": null,
+                "act_end_time": 0,
+                "right_image": null,
+                "left_image": null
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171228141641728.png",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-hblymntyxd50g",
+                "stock": 23,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/880b842f79204db895b637b7ab41f5da.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 2,
+                        "color": 9868950,
+                        "price": 1990,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 590,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "看我用糖衣炮弹打动你的胃",
+                "name": "露云娜美糖衣小点",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-hbxczdg120g",
+                "stock": 3,
+                "pao": 1,
+                "image": "https://image.missfresh.cn/208441128db947c38a7af19357947f51.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 1480,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 1480,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "咯吱咯吱 小心有菜籽埋伏",
+                "name": "香橙菜籽蛋糕120g",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-hbsdjsgdgj220g",
+                "stock": 1,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/5e1735303e404f3199ab7173c6fa3b24.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 1780,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 1780,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "这个树根 松软得有点过分",
+                "name": "圣诞节树根蛋糕卷",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-sqzhongtjc72g",
+                "stock": 1,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/68f50082b8bc4e5d8ba2d608b0d0d9db.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 1580,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 1580,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "身体寒凉时我比男友更贴心",
+                "name": "寿全斋红糖姜茶72g",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "code": "shuichan",
+                "group_img": null,
+                "backgroud_color": 0,
+                "enabled_banner": 1,
+                "banner": [
+                    {
+                        "path": "https://image.missfresh.cn/category_group_images/8DEDDC39695429DF6B929FCA2850BFF4.JPG",
+                        "name": "水产",
+                        "width": 750,
+                        "link": null,
+                        "type": "APEXPRODUCTDETAIL",
+                        "height": 220
+                    }
+                ],
+                "type": "group",
+                "tags": null,
+                "gray_switch": 0,
+                "font_color": 16719167,
+                "second_title": null,
+                "name": null,
+                "seckill_bgimg_url": null,
+                "act_end_time": 0,
+                "right_image": null,
+                "left_image": null
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-glhhxr-4150",
+                "stock": 7,
+                "pao": 1,
+                "image": "https://image.missfresh.cn/c10301f5e46847aab865f01aeedb7884.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 4990,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 4990,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "在大海野惯了 肉自然更紧致",
+                "name": "黑虎虾仁200g（41/50）",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": [
+                    {
+                        "name": "浙江舟山",
+                        "icon": null,
+                        "color": 13027014,
+                        "type": "property"
+                    }
+                ],
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-zsqtxhy-400g",
+                "stock": 7,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/8986d40d23aa4cefbcb6db26be26108c.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 1990,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 1990,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "没头的 烹饪起来更轻松",
+                "name": "去头小黄鱼400g（新老包装交替发货）",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-zjqsb-300g",
+                "stock": 16,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/cf45acf005cd47b6a490aec2250356bc.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 1990,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 1990,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "身为〝海鸡肉〞 肉质是细嫩担当",
+                "name": "在家吃饭 青石斑鱼300g",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": [
+                    {
+                        "name": "原产地 阿根廷",
+                        "icon": "https://image.missfresh.cn/category_tag_images/3194F4969E723F1096BDA4E6BE9CAF91.PNG",
+                        "color": 13027014,
+                        "type": "property"
+                    }
+                ],
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-zjagthx-360g",
+                "stock": 12,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/8bba170ddef74f9b954b2e1ca10b20f2.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 5390,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 5390,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "大过手掌的阿根廷红虾",
+                "name": "在家吃饭 阿根廷红虾360g",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171228141615234.png",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "P-zsdyd-500g",
+                "stock": 3,
+                "pao": 1,
+                "image": "https://image.missfresh.cn/b738b9333b6443f0ab1356472727f185.jpg",
+                "vip_exclusive": 2,
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "showTag": 0,
+                        "price": 3590,
+                        "name": "商城价",
+                        "is_ex_price": 0
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16301056,
+                        "showTag": 1,
+                        "price": 1990,
+                        "name": "优享会员价",
+                        "is_ex_price": 1
+                    }
+                },
+                "subtitle": "肉质细腻 一看就是舟山来的",
+                "name": "带鱼段500g",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "code": "华北风味熟食",
+                "group_img": null,
+                "backgroud_color": 0,
+                "enabled_banner": 1,
+                "banner": [
+                    {
+                        "path": "https://image.missfresh.cn/category_group_images/89E58EB3019877EA62DCCBB1190E41C1.JPG",
+                        "name": "",
+                        "width": 750,
+                        "link": null,
+                        "type": "APEXPRODUCTDETAIL",
+                        "height": 220
+                    }
+                ],
+                "type": "group",
+                "tags": null,
+                "gray_switch": 0,
+                "font_color": 16719167,
+                "second_title": null,
+                "name": null,
+                "seckill_bgimg_url": null,
+                "act_end_time": 0,
+                "right_image": null,
+                "left_image": null
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-jjywhcqyb-140g",
+                "stock": 1,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/f10d8f3610e548f19764cb30da98c459.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 1390,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 1390,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "鸭轴大戏 给你好看",
+                "name": "久久丫鸭脖140g(微辣)",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222658920.png",
+                "type": "product",
+                "product_tags": [
+                    {
+                        "color": 13027014,
+                        "name": "限量5000份",
+                        "type": "property"
+                    },
+                    {
+                        "name": "北京风味",
+                        "icon": null,
+                        "color": 13027014,
+                        "type": "property"
+                    }
+                ],
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-lbjjnr-300g",
+                "stock": 10,
+                "pao": 1,
+                "image": "https://image.missfresh.cn/ab12576e37314dd090f6dc58e2f13344.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 2,
+                        "color": 9868950,
+                        "price": 3260,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 2610,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "四九城的记忆 全在嘴里了",
+                "name": "在家吃饭 老北京酱牛肉300g",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171228141705318.png",
+                "type": "product",
+                "product_tags": [
+                    {
+                        "name": "火锅必备",
+                        "icon": null,
+                        "color": 13027014,
+                        "type": "property"
+                    }
+                ],
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-hbzdyx300g",
+                "stock": 21,
+                "pao": 0,
+                "image": "http://missfresh-asvip-production-common.ufile.ucloud.com.cn/product_images/7B01588A65BA05FB68E432AE0BA5FC7C.JPG",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 660,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 660,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "火锅里少了我 是不是很寂寞",
+                "name": "正大鸭血300g(赠1盒)（新旧包装交替）",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222851539.png",
+                "type": "product",
+                "product_tags": [
+                    {
+                        "color": 13027014,
+                        "name": "超值特惠",
+                        "type": "property"
+                    },
+                    {
+                        "name": "红包不可用",
+                        "icon": "https://image.missfresh.cn/category_tag_images/64C7BDFCE3063869F16B409A2851887D.PNG",
+                        "color": 13027014,
+                        "type": "property"
+                    }
+                ],
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-bnpj-550g",
+                "stock": 9,
+                "pao": 1,
+                "image": "https://image.missfresh.cn/product_images/2F96A612CDF6F35889FD4C6810953371.JPG",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 2,
+                        "color": 9868950,
+                        "price": 2580,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 2330,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "每次闻到扒鸡味 馋到流口水",
+                "name": "在家吃饭 百年扒鸡520g",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222814888.png",
+                "type": "product",
+                "product_tags": [
+                    {
+                        "name": "红包不可用",
+                        "icon": "https://image.missfresh.cn/category_tag_images/64C7BDFCE3063869F16B409A2851887D.PNG",
+                        "color": 13027014,
+                        "type": "property"
+                    }
+                ],
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-nbhrljzhc125g",
+                "stock": 20,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/product_images/2C5AB6879DE4AF20B9EE97124F5E8E7F.JPG",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 1290,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 1290,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "屹立百年的哈红肠  大写的服",
+                "name": "哈肉联 精制红肠125g/1根",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "",
+                "type": "product",
+                "product_tags": [
+                    {
+                        "name": "四川风味",
+                        "icon": null,
+                        "color": 13027014,
+                        "type": "property"
+                    }
+                ],
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-bhmjjj-230g",
+                "stock": 11,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/b923a3a82f4c4df5a411cbfd6c2759ec.jpg",
+                "vip_exclusive": 2,
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "showTag": 0,
+                        "price": 1980,
+                        "name": "商城价",
+                        "is_ex_price": 0
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16301056,
+                        "showTag": 1,
+                        "price": 1680,
+                        "name": "优享会员价",
+                        "is_ex_price": 1
+                    }
+                },
+                "subtitle": "麻辣椒香 还不用频繁吐骨头",
+                "name": "椒麻去骨鸡脚230g",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "code": "华北快熟速食",
+                "group_img": null,
+                "backgroud_color": 0,
+                "enabled_banner": 1,
+                "banner": [
+                    {
+                        "path": "https://image.missfresh.cn/category_group_images/7DB4A30FB0AA2612C74918930C718C83.JPG",
+                        "name": "速食",
+                        "width": 750,
+                        "link": null,
+                        "type": "APEXPRODUCTDETAIL",
+                        "height": 220
+                    }
+                ],
+                "type": "group",
+                "tags": null,
+                "gray_switch": 0,
+                "font_color": 16719167,
+                "second_title": null,
+                "name": null,
+                "seckill_bgimg_url": null,
+                "act_end_time": 0,
+                "right_image": null,
+                "left_image": null
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222814888.png",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-htssmt-510g",
+                "stock": 22,
+                "pao": 1,
+                "image": "https://image.missfresh.cn/product_images/98E1AF531D677691F8F7C22AADF986B1.JPG",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 1290,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 1290,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "超耐撕的红糖小馒头 求翻牌",
+                "name": "红糖手撕馒头510g",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": [
+                    {
+                        "name": "红包不可用",
+                        "icon": "https://image.missfresh.cn/category_tag_images/64C7BDFCE3063869F16B409A2851887D.PNG",
+                        "color": 13027014,
+                        "type": "property"
+                    }
+                ],
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-nxxrb180g",
+                "stock": 41,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/product_images/6D0F389B782A35935A2BA8188A3CA873.JPG",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 990,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 990,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "身材精致 满腹肉香汤汁",
+                "name": "南翔小笼包180g/袋",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-jpzswmhb-150g",
+                "stock": 3,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/b3b0cc91d3d14392978efa725815f860.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 660,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 660,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "早晨来口非油炸的营养汉堡",
+                "name": "鸡排米汉堡照烧味150g",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222814888.png",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-snsxxyt-400g",
+                "stock": 17,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/3b79fe7db3f6441bbacb98e34148fca7.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 1880,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 1880,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "珍味真爱 一口一个",
+                "name": "思念上汤珍味三鲜小云吞400g",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-sssndxhd-150g",
+                "stock": 28,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/b5f521e415ed4c29970aa55b51af9a40.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 980,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 980,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "哇哦 每一口都是大馅料的满足感",
+                "name": "思念上海大馅馄饨150g",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "code": "liangyou居家粮油",
+                "group_img": null,
+                "backgroud_color": 0,
+                "enabled_banner": 1,
+                "banner": [
+                    {
+                        "path": "https://image.missfresh.cn/category_group_images/421B146CFAE4C71A10E2D84848AB8565.JPG",
+                        "name": "粮油",
+                        "width": 750,
+                        "link": null,
+                        "type": "APEXPRODUCTDETAIL",
+                        "height": 220
+                    }
+                ],
+                "type": "group",
+                "tags": null,
+                "gray_switch": 0,
+                "font_color": 16719167,
+                "second_title": null,
+                "name": null,
+                "seckill_bgimg_url": null,
+                "act_end_time": 0,
+                "right_image": null,
+                "left_image": null
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 1,
+                "promote_tag_new": "",
+                "sku": "p-lfnztym-500g",
+                "stock": 8,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/product_images/AF8FD36C0271ECCD238EABA9D167620D.JPG",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 3,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 1280,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 1280,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "讲真 直男也没我这么直",
+                "name": "乐芙娜直条意面500g",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 1,
+                "promote_tag_new": "",
+                "sku": "p-twntglkyw-66g",
+                "stock": 6,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/product_images/8778d9e961860765c3485c4facb36b82.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 3,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 1490,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 1490,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "懒人料理的救星终于出现了",
+                "name": "台湾牛头咖喱块原味66g",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 1,
+                "promote_tag_new": "",
+                "sku": "p-stlkfs-200g",
+                "stock": 17,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/product_images/d7b38a7f75231c76a9990d7c45fdf997.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 3,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 890,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 890,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "口感爽滑耐嚼  快被圈粉啦",
+                "name": "双塔龙口粉丝200g",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 1,
+                "promote_tag_new": "",
+                "sku": "p-gzhgydzmthy-65ml",
+                "stock": 1,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/f9993f82ebcf4d45a0027e2ef3cc62f6.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 3,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 490,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 490,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "火锅油碟里放它 真是香翻啦",
+                "name": "古钟火锅油碟（芝麻调和油）65ml",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 1,
+                "promote_tag_new": "",
+                "sku": "p-wslmyrf",
+                "stock": 7,
+                "pao": 1,
+                "image": "https://image.missfresh.cn/product_images/055B694F5E8D6A8B6AF4E5585662E5A2.JPG",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 3,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 690,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 690,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "有了它 还去什么日式拉面店",
+                "name": "味尚肉骨汤拉面155g",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222851539.png",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-zjcfdhxdm-2.5kg",
+                "stock": 12,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/f787c7f96d5e4d87be8296d8adf72b49.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 3990,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 3990,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "来自五常 血统为纯正稻花香",
+                "name": "在家吃饭稻花香大米2.5kg",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "code": "fwm",
+                "group_img": null,
+                "backgroud_color": 0,
+                "enabled_banner": 1,
+                "banner": [
+                    {
+                        "path": "https://image.missfresh.cn/category_group_images/745863E016540FC9C01A9CE5D646F616.JPG",
+                        "name": "",
+                        "width": 750,
+                        "link": null,
+                        "type": "APEXPRODUCTDETAIL",
+                        "height": 220
+                    }
+                ],
+                "type": "group",
+                "tags": null,
+                "gray_switch": 0,
+                "font_color": 16719167,
+                "second_title": null,
+                "name": null,
+                "seckill_bgimg_url": null,
+                "act_end_time": 0,
+                "right_image": null,
+                "left_image": null
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "",
+                "type": "product",
+                "product_tags": [
+                    {
+                        "name": "红包不可用",
+                        "icon": "https://image.missfresh.cn/category_tag_images/64C7BDFCE3063869F16B409A2851887D.PNG",
+                        "color": 13027014,
+                        "type": "property"
+                    }
+                ],
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-qfjz3c270d-12j",
+                "stock": 16,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/3f5e25a6eecb4a919c5ebbef5072b091.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 2900,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 2900,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "家庭用 整提更方便",
+                "name": "清风原木纯品卷纸3层270段*12卷",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171228141641728.png",
+                "type": "product",
+                "product_tags": [
+                    {
+                        "name": "红包不可用",
+                        "icon": "https://image.missfresh.cn/category_tag_images/64C7BDFCE3063869F16B409A2851887D.PNG",
+                        "color": 13027014,
+                        "type": "property"
+                    }
+                ],
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-wdcrxlrbcz-3c130c6b",
+                "stock": 9,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/4ba2f3e563694c3caa25a52ef59bc336.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 2,
+                        "color": 9868950,
+                        "price": 1950,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 1490,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "无香S号  湿水不易破",
+                "name": "维达超韧系列软包抽纸3层130抽6包",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-ynjcsshzm-40m",
+                "stock": 9,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/1bcbe4706ad14fb6a44a2a4c32519bb8.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 2500,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 2500,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "水感海绵材质 柔软更亲肤",
+                "name": "尤妮佳超省水1/2化妆棉 40枚",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222851539.png",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-pittamaskkzshs-3mz",
+                "stock": 10,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/1e077c29a1624dd69c968cdb9c4615ce.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 2,
+                        "color": 9868950,
+                        "price": 6600,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 5800,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "鹿晗+关晓彤 明星同款口罩",
+                "name": "PITTA MASK 口罩深灰色3枚装",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222851539.png",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-adhesrbsmm-10p",
+                "stock": 1,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/91db22f4f7824ec690bb76ccfda74995.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 2,
+                        "color": 9868950,
+                        "price": 11900,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 8500,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "天气干燥 帮小嫩脸锁住更多保湿因子",
+                "name": "美迪惠尔水润保湿面膜 10片",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222733731.png",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-thnbb-10mz",
+                "stock": 15,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/3ea63756c7cb44f9b463228736ffa991.jpg",
+                "cart_btn_name": "加入购物车",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 3900,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 3900,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "严严寒冬  让我温暖你12小时",
+                "name": "桐灰暖宝宝 10枚装",
+                "cart_image": "https://j-image.missfresh.cn/img_20170425134548759.png",
+                "nationwide": 0
+            },
+            {
+                "code": "big_warehouse",
+                "backgroud_color": 0,
+                "second_title": "把最新鲜的 留给明天的你",
+                "name": "今日售罄 明日送达",
+                "act_end_time": 0,
+                "type": "group"
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "https://j-image.missfresh.cn/img_20171227222851539.png",
+                "type": "product",
+                "product_tags": [
+                    {
+                        "name": "网红美食",
+                        "icon": null,
+                        "color": 13027014,
+                        "type": "property"
+                    }
+                ],
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-hbllhzdg110g",
+                "stock": 4,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/a777f3eb96d248b2b76856f3bcb31316.jpg",
+                "cart_btn_name": "明日送达",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 2,
+                        "color": 9868950,
+                        "price": 2580,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 2360,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "这份“便当”足以让榴莲党尖叫",
+                "name": "榴莲盒子蛋糕100g",
+                "cart_image": "",
+                "nationwide": 4
+            },
+            {
+                "sell_out": false,
+                "promote_tag": "",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-jcy-700g",
+                "stock": 4,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/product_images/F7F3CBB579BEE2035791985FE7B99C2E.JPG",
+                "cart_btn_name": "明日送达",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 4990,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 4990,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "久居深海因而不受污染",
+                "name": "金鲳鱼700g",
+                "cart_image": "",
+                "nationwide": 4
+            },
+            {
+                "code": "sell-out",
+                "backgroud_color": 0,
+                "second_title": "货到了 我会记得喊声你哦",
+                "name": "订阅到货提醒",
+                "act_end_time": 0,
+                "type": "group"
+            },
+            {
+                "sell_out": true,
+                "promote_tag": "",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 1,
+                "promote_tag_new": "",
+                "sku": "p-yydhgc235ml",
+                "stock": 0,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/product_images/23A987C9D6C3A2002C40E49E182523BF.JPG",
+                "cart_btn_name": "到货提醒",
+                "buy_permission": 0,
+                "seckill_limit": 2,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 590,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 590,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "经典老品牌 还是那股老味道",
+                "name": "大亨果茶235ml",
+                "cart_image": "",
+                "nationwide": 0
+            },
+            {
+                "sell_out": true,
+                "promote_tag": "",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-hbsdmwdgj100g",
+                "stock": 0,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/a801227adcf74939b2bcdb2d4f247bea.jpg",
+                "cart_btn_name": "到货提醒",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 1480,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 1480,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "今年圣诞 邀请你来小木屋",
+                "name": "圣诞木屋巧克力蛋糕卷",
+                "cart_image": "",
+                "nationwide": 0
+            },
+            {
+                "sell_out": true,
+                "promote_tag": "",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 1,
+                "promote_tag_new": "",
+                "sku": "p-wsnrtlm-35g",
+                "stock": 0,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/d26af4c051ca43f4a9a79b34e656d8df.jpg",
+                "vip_exclusive": 2,
+                "cart_btn_name": "到货提醒",
+                "buy_permission": 0,
+                "seckill_limit": 3,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "showTag": 0,
+                        "price": 790,
+                        "name": "商城价",
+                        "is_ex_price": 0
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16301056,
+                        "showTag": 1,
+                        "price": 690,
+                        "name": "优享会员价",
+                        "is_ex_price": 1
+                    }
+                },
+                "subtitle": "闭上眼闻 像在日本拉面小馆",
+                "name": "味尚牛肉汤拉面145g",
+                "cart_image": "",
+                "nationwide": 0
+            },
+            {
+                "sell_out": true,
+                "promote_tag": "",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-xxwcnn-1d",
+                "stock": 0,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/382eb62b349b44b89a0ba4c37a244dd7.jpg",
+                "cart_btn_name": "到货提醒",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 350,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 350,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "浓香纯净 尝口久违的牛奶香",
+                "name": "新希望纯牛奶180ml",
+                "cart_image": "",
+                "nationwide": 0
+            },
+            {
+                "sell_out": true,
+                "promote_tag": "",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-zxzrhtsn-1p",
+                "stock": 0,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/011ce27ffae94d3cbd89282003a0f5bd.jpg",
+                "cart_btn_name": "到货提醒",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 680,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 680,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "酸甜浓醇 伴有微微红糖香",
+                "name": "遵循自然红糖酸奶210g",
+                "cart_image": "",
+                "nationwide": 0
+            },
+            {
+                "sell_out": true,
+                "promote_tag": "",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-sbrz-200g",
+                "stock": -2,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/5fff132afa494f3981c339f8bce116d0.jpg",
+                "cart_btn_name": "到货提醒",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 2190,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 2190,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "三大海味中的平价实惠款",
+                "name": "扇贝肉柱200g",
+                "cart_image": "",
+                "nationwide": 0
+            },
+            {
+                "sell_out": true,
+                "promote_tag": "",
+                "type": "product",
+                "product_tags": null,
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "sku": "p-SQjcjdssj450g",
+                "stock": 0,
+                "pao": 0,
+                "image": "https://image.missfresh.cn/product_images/B6D164AE6DE4EE029CAD8DBA534AEA3A.JPG",
+                "cart_btn_name": "到货提醒",
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 980,
+                        "name": ""
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 980,
+                        "name": "商城价"
+                    }
+                },
+                "subtitle": "大鱼大肉太多  吃我补充纤维",
+                "name": "三全韭菜鸡蛋素水饺450g",
+                "cart_image": "",
+                "nationwide": 0
+            }
+        ],
+        "member_level": 1
+    },
+    "event": {
+        "group_purchase_hint": "赚80元"
+    }
+}

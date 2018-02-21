@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "axios": "^0.17.1",
+    "axios-mock-adapter": "^1.10.0"
+  }
+}

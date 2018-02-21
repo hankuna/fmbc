@@ -1,0 +1,294 @@
+{
+    "country": "中国",
+    "group_info": {
+        "event_end_time": "",
+        "deliver_end_time": "",
+        "group_number_dec": "",
+        "owner_discount_price": 0,
+        "count_down": 0,
+        "group_initiator_benifit": "",
+        "event_start_time": "",
+        "new_user_only": 0,
+        "group_rule_img": "",
+        "group_h5_url": "",
+        "deliver_start_time": ""
+    },
+    "integral_price": 0,
+    "free_shipping": 0,
+    "delivery_style": "1小时达",
+    "product_need_level": 0,
+    "product_share_icon": "https://j-image.missfresh.cn/img_20171028203137142.png",
+    "price": 2990,
+    "buyerDescription": "用8年专注国内外牛羊肉，监督切割、配送环节，所挑选的肉类不合格率为0。",
+    "buyerUrl": "https://image.missfresh.cn/42187408829c4f78bac2582cfa7ed640.png",
+    "exchange_times_per_day": 0,
+    "promote_tag_new": "",
+    "id": 12933,
+    "sku": "p-yszgyrp-300g",
+    "stock": 30,
+    "brand": "",
+    "integral_product_type": 0,
+    "sales_volume": "86171",
+    "image": "https://image.missfresh.cn/cb674e5b8956436cb8dfddff1008afb3.jpg",
+    "images": [
+        "https://image.missfresh.cn/28f1ca48803e444ea7311e21c6edc158.jpg",
+        "https://image.missfresh.cn/35dc1ca1af79495bac8dc87045719816.jpg",
+        "https://image.missfresh.cn/893149674d7a443898cc7177fa152809.jpg",
+        "https://image.missfresh.cn/1b219983be6547d18910b72ca7d03d3d.jpg",
+        "https://image.missfresh.cn/9ff8dad4b90d4a18aed042c03f19c0d6.jpg"
+    ],
+    "is_vip": 1,
+    "weight": "300g",
+    "seckill_limit": 0,
+    "pack": "盒装",
+    "unit": "1盒",
+    "vip_card": {
+        "is_opened": 1,
+        "back_cash_text": "购买该商品可返#_$0.99#_$元",
+        "icon_img": "https://j-image.missfresh.cn/img_20171028224101960.png"
+    },
+    "subtitle": "火锅涮肉 就爱你的鲜美无膻",
+    "name": "月盛斋羔羊肉片300g",
+    "market_price": 0,
+    "nationwide": 0,
+    "vip_price": 1990,
+    "delivery_mode": 1,
+    "storage_code": "",
+    "description": [
+        "来自锡林郭勒大草原的清真羔羊肉\r",
+        "肉质紧实，不注水无粘合，让您放心食用\r",
+        "锅中涮10秒后捞出，蘸少许酱料满口鲜香十分满足"
+    ],
+    "promote_tag": "https://j-image.missfresh.cn/img_20170605114552360.png",
+    "product_created_at": "2017-09-15 11:19:39",
+    "is_exchange_product": 0,
+    "is_present": 0,
+    "exchange_times_per_period": 0,
+    "product_chrome": 1,
+    "promotion_tag": "不可用红包",
+    "can_use_voucher": 0,
+    "storage_method": "冷冻",
+    "quantity": 1,
+    "cart_btn_name": "加入购物车",
+    "share_info": {
+        "wx_share_type": 0,
+        "image_url": "https://image.missfresh.cn/b4ae1412cfb044ec9c50bd8a4f63e924.jpg",
+        "sina_url": "https://s.missfresh.cn/s/12933/12944201_c475117",
+        "wx_url": "https://as-vip.missfresh.cn/s/pd?a=p-yszgyrp-300g&b=12944201_c475&t=117&v=c3cd&u=12944201",
+        "friend_share_type": 1,
+        "qqFriendShareType": 0,
+        "title": "【好友力荐】快来看好商品！「月盛斋羔羊肉片300g」",
+        "content": "机不可失！新人优惠满59减30！",
+        "friend_url": "https://as-vip.missfresh.cn/s/pd?a=p-yszgyrp-300g&b=12944201_c475&t=117&v=c3cd&u=12944201",
+        "qqFriendUrl": "https://s.missfresh.cn/s/12933/12944201_c475117"
+    },
+    "presale_type": 0,
+    "buy_permission": 0,
+    "buyerName": "张玮昊",
+    "qa_info": [
+        {
+            "stationRegion": "MRYXTJ",
+            "picUrl": "http://missfresh-asvip-develop-common.ufile.ucloud.cn/wms_1514958334770788265.png",
+            "width": 1001,
+            "height": 3359
+        }
+    ],
+    "storage_time": "360天",
+    "member_level": 1,
+    "vip_price_pro": {
+        "price_up": {
+            "show_type": 2,
+            "color": 9868950,
+            "price": 2990,
+            "name": ""
+        },
+        "price_down": {
+            "show_type": 1,
+            "color": 16730257,
+            "price": 1990,
+            "name": "商城价"
+        }
+    },
+    "instruction": [
+        {
+            "blur_image": "",
+            "image": "http://missfresh-asvip-production-common.ufile.ucloud.com.cn/banner_images/FEC5D16EB90F09DBDE469C4FCDF7BA8B.JPG",
+            "ordering": 180,
+            "description": "",
+            "video": "",
+            "title": ""
+        },
+        {
+            "blur_image": "",
+            "image": "http://missfresh-asvip-production-common.ufile.ucloud.com.cn/banner_images/20009482C7FEBEA5BF4C8A1A3AEC7C72.JPG",
+            "ordering": 170,
+            "description": "",
+            "video": "",
+            "title": ""
+        },
+        {
+            "blur_image": "",
+            "image": "http://missfresh-asvip-production-common.ufile.ucloud.com.cn/banner_images/7EBDA2D7CD0510EFCD30F81BC5D630E3.JPG",
+            "ordering": 160,
+            "description": "",
+            "video": "",
+            "title": ""
+        },
+        {
+            "blur_image": "",
+            "image": "http://missfresh-asvip-production-common.ufile.ucloud.com.cn/banner_images/F77F23ACB746F6087B52660E21AC613A.JPG",
+            "ordering": 150,
+            "description": "",
+            "video": "",
+            "title": ""
+        },
+        {
+            "blur_image": "",
+            "image": "http://missfresh-asvip-production-common.ufile.ucloud.com.cn/banner_images/448064F2F5C85FD1F9AD2EC320B3A9D4.JPG",
+            "ordering": 140,
+            "description": "",
+            "video": "",
+            "title": ""
+        },
+        {
+            "blur_image": "",
+            "image": "http://missfresh-asvip-production-common.ufile.ucloud.com.cn/banner_images/1E85D21063C6FB7B516C51288A9855A2.JPG",
+            "ordering": 130,
+            "description": "",
+            "video": "",
+            "title": ""
+        },
+        {
+            "blur_image": "",
+            "image": "http://missfresh-asvip-production-common.ufile.ucloud.com.cn/banner_images/AF3E75AAB0088F3761B1D49F9587088F.JPG",
+            "ordering": 120,
+            "description": "",
+            "video": "",
+            "title": ""
+        },
+        {
+            "blur_image": "",
+            "image": "http://missfresh-asvip-production-common.ufile.ucloud.com.cn/banner_images/DB151AE897CB4AF381A04906712E8CF2.JPG",
+            "ordering": 110,
+            "description": "",
+            "video": "",
+            "title": ""
+        },
+        {
+            "blur_image": "",
+            "image": "http://missfresh-asvip-production-common.ufile.ucloud.com.cn/banner_images/FE38A84FE9A6E01C5F4E2AED44CA1A29.JPG",
+            "ordering": 100,
+            "description": "",
+            "video": "",
+            "title": ""
+        },
+        {
+            "blur_image": "",
+            "image": "http://missfresh-asvip-production-common.ufile.ucloud.com.cn/banner_images/5E8E4B1BAB9F569F4935758E307E1B03.JPG",
+            "ordering": 90,
+            "description": "",
+            "video": "",
+            "title": ""
+        },
+        {
+            "blur_image": "",
+            "image": "http://missfresh-asvip-production-common.ufile.ucloud.com.cn/banner_images/B26C0C00579EB37CD1A326F4944ACB0C.JPG",
+            "ordering": 80,
+            "description": "",
+            "video": "",
+            "title": ""
+        },
+        {
+            "blur_image": "",
+            "image": "http://missfresh-asvip-production-common.ufile.ucloud.com.cn/banner_images/DB6635D08D66F272FDF60EB4CDACECB0.JPG",
+            "ordering": 70,
+            "description": "",
+            "video": "",
+            "title": ""
+        },
+        {
+            "blur_image": "",
+            "image": "http://missfresh-asvip-production-common.ufile.ucloud.com.cn/banner_images/FF32E75A1104C375161C3B6E8D35CB78.JPG",
+            "ordering": 60,
+            "description": "",
+            "video": "",
+            "title": ""
+        },
+        {
+            "blur_image": "",
+            "image": "http://missfresh-asvip-production-common.ufile.ucloud.com.cn/banner_images/5C0631B55CE456767A9119C12442404C.JPG",
+            "ordering": 50,
+            "description": "",
+            "video": "",
+            "title": ""
+        },
+        {
+            "blur_image": "",
+            "image": "http://missfresh-asvip-production-common.ufile.ucloud.com.cn/banner_images/2132BD6DE17FD3CDC5E0D73AA114CFC6.JPG",
+            "ordering": 40,
+            "description": "",
+            "video": "",
+            "title": ""
+        },
+        {
+            "blur_image": "",
+            "image": "http://missfresh-asvip-production-common.ufile.ucloud.com.cn/banner_images/28E98948FD75BDE0445495525A4266C4.JPG",
+            "ordering": 30,
+            "description": "",
+            "video": "",
+            "title": ""
+        },
+        {
+            "blur_image": "",
+            "image": "http://missfresh-asvip-production-common.ufile.ucloud.com.cn/banner_images/A30A93FDF30950021A97CE4B2D7713C5.JPG",
+            "ordering": 20,
+            "description": "",
+            "video": "",
+            "title": ""
+        },
+        {
+            "blur_image": "",
+            "image": "http://missfresh-asvip-production-common.ufile.ucloud.com.cn/banner_images/F9314AF86F3158116BFFA0DD3D2505BA.JPG",
+            "ordering": 10,
+            "description": "",
+            "video": "",
+            "title": ""
+        }
+    ],
+    "cart_image": "https://image.missfresh.cn/b4ae1412cfb044ec9c50bd8a4f63e924.jpg",
+    "delivery_mode_name": "1小时达",
+    "product_share_info_v2": {
+        "product_share_need_price": 1,
+        "share_product_text": "已经有22419人分享了该商品",
+        "product_bright_spot": "亮点",
+        "qr_size": 77,
+        "product_rule_is_show": 1,
+        "show_share_img": "http://missfresh-asschool-develop-common.ufile.ucloud.com.cn/img_20170504191635971.png",
+        "preview_show": 0,
+        "share_bt_bg_img": "https://j-image.missfresh.cn/img_20180103195452209.jpg",
+        "product_share_backup_up": "https://j-image.missfresh.cn/img_20171029161107230.png",
+        "share_bg_title": "火锅涮肉 就爱你的鲜美无膻",
+        "benefit_status": 0,
+        "share_s_p_img": [
+            "https://j-image.missfresh.cn/img_20171029215450695.png"
+        ],
+        "prodcut_share_bg_login_text": "登陆方可享受奖励,立即登陆",
+        "share_product_img": "https://j-image.missfresh.cn/img_20171029215450695.png",
+        "preview_need_qrcode": 1,
+        "benefit_get_txt": "已获得",
+        "share_s_p_txt": "点击分享",
+        "prodcut_share_bg_img": "http://missfresh-asschool-develop-common.ufile.ucloud.com.cn/img_20170327161934693.jpg",
+        "prodcut_share_bg_text": "分享商品不仅有机会得15元红包\n好友下单购买，更有5%的返现等你拿",
+        "qr_y": 13,
+        "qr_x": 74,
+        "product_detail_is_show": 1,
+        "product_integarl_explain": "分享后点击链接，随机得红包，会员分享商品，非会员下单签收后，会员得5%返现",
+        "product_integarl_icon": "http://missfresh-asschool-develop-common.ufile.ucloud.com.cn/img_20170215184830712.png",
+        "product_integarl_text": "分享得红包，又得返现"
+    },
+    "enable_mrd": 1,
+    "exchange_limit_day": 0,
+    "promotion": [
+        "实付满39包邮"
+    ]
+}

@@ -1,0 +1,77 @@
+body, .app, #root {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  font-size: 0.16rem;
+  background: #fff;
+  display: -webkit-flex;
+  flex-direction: column;
+  
+}
+
+:global(#root) {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  font-size: 0.16rem;
+  background: #fff;
+}
+
+* {
+  margin: 0 auto;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+}
+
+.ul {
+  display: -webkit-flex;
+}
+
+.header {
+  position: fixed;
+  width: 100%;
+  height: 45px;
+  line-height: 45px;
+  background: #e82c2c;
+  font-size: 20px;
+  color: #f8f8f8;
+  text-align: center;
+  z-index: 9;
+  position: relative;
+}
+
+:global(.content) {
+  width: 100%;
+  flex: 1;
+  overflow-y: scroll;
+}
+
+.foots {
+  width: 100%;
+  background: #fff;
+  height: .41rem;
+  border-top: 1px solid #ccc;
+}
+
+.foots ul {
+  height: .41rem;
+  background: #fff;
+  display: flex;
+}
+
+.foots ul li {
+  height: .41rem;
+  flex: 1;
+  line-height: .41rem;
+  text-align: center;
+  background: #fff;
+}
+
+.foots ul li a {
+  display: block;
+}

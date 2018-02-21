@@ -1,0 +1,27 @@
+.list{
+    width: 100%;
+    clear: both;
+    background: #fff;
+    height: 110px;
+    border-bottom: 1px solid #ccc;
+}
+.listBox{
+    width: 100%;
+    line-height: 35px;
+    
+}
+.listBox img{
+    width: 20px;
+    height: 20px;
+    padding: 0 10px;
+}
+.listBox p{
+    margin-left: 10px;
+    color: #9a9a9a;
+    font-size: 12px;
+}
+.shoucang{
+    float: right;
+    color: #666;
+    font-size: 14px;
+}

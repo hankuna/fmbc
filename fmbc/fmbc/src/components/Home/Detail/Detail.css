@@ -1,0 +1,61 @@
+.detail {
+  margin-top: 50px;
+}
+
+.title {
+  height: 50px;
+  background-color: #fff;
+  text-align: center;
+  line-height: 50px;
+}
+
+.img {
+  height: 130px;
+  background-color: #ccc;
+  background: url("https://fmbc.8win.com/img/bg_football.png ") no-repeat;
+  background-size: 100% 100%;
+  display: flex;
+}
+
+.img img {
+  width: 55px;
+  height: 55px;
+  margin-top: 30px;
+}
+
+.img p {
+  color: #fff;
+  font-size: 12px;
+  text-align: center;
+}
+
+.center h2 {
+  color: #fff;
+  text-align: center;
+}
+
+.center p {
+  text-align: center;
+  margin-top: 30px;
+  color: #999;
+}
+
+.Accordlist {
+  height: 120px;
+  width: 100%;
+}
+
+.playbox {
+  width: 100%;
+}
+
+.Accdiv {
+  background-color: #fff;
+  width: 32.5%;
+  height: 70px;
+  float: left;
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  text-align: center;
+  line-height: 30px;
+}

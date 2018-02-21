@@ -1,0 +1,8 @@
+.slide{
+    background-color: #fff;
+    border-bottom: 1px solid #ccc;
+    height: 50px;
+    padding-top: 10px;
+    border-right: 1px solid #ccc;
+    text-align: center;
+}

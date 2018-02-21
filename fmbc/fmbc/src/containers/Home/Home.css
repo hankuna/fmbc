@@ -1,0 +1,44 @@
+body, #root {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  font-size: 0.16rem;
+  background: #fff;
+}
+
+* {
+  margin: 0 auto;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+}
+
+.home {
+  width: 100%;
+  background: #fff;
+  box-sizing: border-box;
+  display: inline-block;
+  padding: 0 .1rem .1rem;
+  vertical-align: top;
+  min-height: .69rem;
+}
+
+.section {
+  width: 100%;
+}
+
+.left {
+  width: 25%;
+  font-size: 12px;
+}
+
+.right {
+  flex: 1;
+}
+
+.btn {
+  margin-top: 50px;
+}
